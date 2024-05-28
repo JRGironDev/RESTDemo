@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-ios/iossimulator-arm64/RESTDemo.app/libSystem.Native.dylib
