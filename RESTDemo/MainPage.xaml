@@ -5,10 +5,27 @@
 
     <VerticalStackLayout
         HorizontalOptions="Center"
-        VerticalOptions="Center">
-        <Button 
+        VerticalOptions="Center"
+        Spacing="15">
+        <Button
+            Command="{Binding GetAllUsersCommand}"
+            Text="Get All User"/>
+
+        <Button
+            Command="{Binding GetSingleUserCommand}"
+            Text="Get Single User"/>
+
+        <Button
             Command="{Binding AddUserCommand}"
-            Text="Add User" />
+            Text="Add User"/>
+
+        <Button
+            Command="{Binding UpdateUserCommand}"
+            Text="Update User"/>
+        
+        <Button
+            Command="{Binding DeleteUserCommand}"
+            Text="Delete User"/>
     </VerticalStackLayout>
 
 </ContentPage>
