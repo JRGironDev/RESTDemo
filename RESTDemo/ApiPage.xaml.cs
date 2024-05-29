@@ -1,9 +1,9 @@
 ﻿namespace RESTDemo;
 
-public partial class MainPage : ContentPage
+public partial class ApiPage : ContentPage
 {
 
-	public MainPage()
+	public ApiPage()
 	{
 		InitializeComponent();
 

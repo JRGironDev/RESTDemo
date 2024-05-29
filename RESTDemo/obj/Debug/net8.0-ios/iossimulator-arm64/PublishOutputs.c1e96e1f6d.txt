@@ -34,6 +34,7 @@
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../RESTDemo.app/zh-Hans/Microsoft.Maui.Controls.resources.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../RESTDemo.app/zh-Hant/Microsoft.Maui.Controls.resources.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../RESTDemo.app/runtimeconfig.bin
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../RESTDemo.app/CommunityToolkit.Mvvm.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../RESTDemo.app/Microsoft.Extensions.Configuration.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../RESTDemo.app/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../RESTDemo.app/Microsoft.Extensions.DependencyInjection.dll

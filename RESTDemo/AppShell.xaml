@@ -4,12 +4,18 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:RESTDemo.Views"
+    xmlns:restDemo="clr-namespace:RESTDemo"
     Shell.FlyoutBehavior="Disabled"
     Title="RESTDemo">
 
     <ShellContent
-        Title="Home"
+        Title="OnBoarding"
         ContentTemplate="{DataTemplate local:OnBoarding}"
-        Route="MainPage" />
+        Route="OnBoarding" />
+    
+    <ShellContent
+        Title="ApiApiPage"
+        ContentTemplate="{DataTemplate restDemo:ApiPage}"
+        Route="ApiApiPage" />
 
 </Shell>

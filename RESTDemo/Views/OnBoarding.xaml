@@ -6,36 +6,70 @@
              xmlns:models="clr-namespace:RESTDemo.Models"
              x:Class="RESTDemo.Views.OnBoarding"
              x:DataType="viewModels:OnBoardingViewModel"
+             Shell.NavBarIsVisible="False"
              Title="OnBoarding">
-    <CarouselView
-        ItemsSource="{Binding Screens}">
-        <CarouselView.ItemTemplate>
-            <DataTemplate x:DataType="models:Screen">
-                <Grid 
-                    RowDefinitions=".6*, .4*"
-                    RowSpacing="20">
-                    <Image 
-                        Source="{Binding ImageUrl}" 
-                        Aspect="Fill"  />
-                    
-                    <VerticalStackLayout 
-                        Grid.Row="1"
-                        Spacing="10"
-                        Padding="20,0">
-                        <Label 
-                            HorizontalTextAlignment="Center"
-                            Text="{Binding Title}" 
-                            FontSize="20" 
-                            FontAttributes="Bold"/>
-                        <Label
-                            HorizontalTextAlignment="Center"
-                            Text="{Binding Description}" 
-                            FontSize="14" 
-                            TextColor="Gray"/>
-
-                    </VerticalStackLayout>
-                </Grid>
-            </DataTemplate>
-        </CarouselView.ItemTemplate>
-    </CarouselView>
+    <Grid RowDefinitions=".8*, .2*">
+        <CarouselView
+            IndicatorView="IndicatorView"
+            ItemsSource="{Binding Screens}"
+            Position="{Binding Position}"
+            HorizontalOptions="Fill"
+            VerticalOptions="FillAndExpand"
+            Loop="False">
+            <CarouselView.ItemTemplate>
+                <DataTemplate x:DataType="models:Screen">
+                    <Grid 
+                        RowDefinitions=".7*, .3*"
+                        RowSpacing="20">
+                        <Image 
+                            Source="{Binding ImageUrl}" 
+                            Aspect="Fill"  />
+                        
+                        <VerticalStackLayout 
+                            Grid.Row="1"
+                            Spacing="10"
+                            Padding="20,0">
+                            <Label 
+                                HorizontalTextAlignment="Center"
+                                Text="{Binding Title}" 
+                                FontSize="20" 
+                                FontAttributes="Bold"/>
+                            <Label
+                                HorizontalTextAlignment="Center"
+                                Text="{Binding Description}" 
+                                FontSize="14" 
+                                TextColor="Gray"/>
+                        </VerticalStackLayout>
+                    </Grid>
+                </DataTemplate>
+            </CarouselView.ItemTemplate>
+        </CarouselView>
+        <StackLayout 
+            Orientation="Horizontal"
+            VerticalOptions="Center"
+            Padding="20,0"
+            Grid.Row="1">
+            <Grid HorizontalOptions="FillAndExpand">
+                <IndicatorView 
+                    x:Name="IndicatorView"
+                    VerticalOptions="Center"
+                    HorizontalOptions="CenterAndExpand"
+                    IndicatorSize="10"
+                    IndicatorColor="#E5E7EB"
+                    SelectedIndicatorColor="#3C83F6" />
+                
+                <Frame
+                    HeightRequest="40"
+                    WidthRequest="40"
+                    CornerRadius="20"
+                    Padding="0"
+                    HorizontalOptions="End"
+                    BackgroundColor="#3C83F6">
+                    <Frame.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding NextCommand}" />
+                    </Frame.GestureRecognizers>
+                </Frame>
+            </Grid>
+        </StackLayout>
+    </Grid>
 </ContentPage>

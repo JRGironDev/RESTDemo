@@ -1,11 +1,3 @@
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/RESTDemo.runtimeconfig.json
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/RESTDemo.dll
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/RESTDemo.pdb
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo.apk
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo.aab
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo-Signed.aab
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo-Signed.apk
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo-Signed.apk.idsig
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/build.props
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/adb.props
@@ -30,6 +22,9 @@
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/resizetizer/r/drawable-xhdpi/dotnet_bot.png
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/resizetizer/r/drawable-xxhdpi/dotnet_bot.png
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/resizetizer/r/drawable-xxxhdpi/dotnet_bot.png
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/resizetizer/r/drawable/firstscreen.png
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/resizetizer/r/drawable/secondscreen.png
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/resizetizer/r/drawable/thirdscreen.png
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/resizetizer/r/mipmap-anydpi-v26/appicon.xml
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/resizetizer/r/mipmap-anydpi-v26/appicon_round.xml
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/resizetizer/r/mipmap-hdpi/appicon.png
@@ -115,9 +110,17 @@
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/RESTDemo.AssemblyInfo.cs
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/RESTDemo.csproj.CoreCompileInputs.cache
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/RESTDemo.sourcelink.json
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/XamlC.stamp
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/RESTDemo.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/RESTDemo.pdb
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/RESTDemo.runtimeconfig.json
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/RESTDemo.dll
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/RESTDemo.pdb
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo.apk
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo.aab
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo-Signed.aab
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo-Signed.apk
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo-Signed.apk.idsig
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/XamlC.stamp
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/RESTDemo.genruntimeconfig.cache
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/RESTDemo.runtimeconfig.json.bin
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/bin/com.companyname.restdemo.apk
@@ -129,6 +132,8 @@
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/resolvedassemblies.hash
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/ar/Microsoft.Maui.Controls.resources.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/ca/Microsoft.Maui.Controls.resources.dll
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/CommunityToolkit.Mvvm.dll
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/CommunityToolkit.Mvvm.pdb
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/cs/Microsoft.Maui.Controls.resources.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/da/Microsoft.Maui.Controls.resources.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/de/Microsoft.Maui.Controls.resources.dll
@@ -273,6 +278,7 @@
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/System.Numerics.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/System.Numerics.Vectors.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/System.ObjectModel.dll
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/System.Private.CoreLib.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/System.Private.DataContractSerialization.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/System.Private.Uri.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/System.Private.Xml.dll
@@ -1036,7 +1042,3 @@
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/stamp/_GenerateJavaStubs.stamp
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/stamp/_GeneratePackageManagerJava.stamp
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/stamp/_ResolveLibraryProjectImports.stamp
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/System.Private.CoreLib.dll
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/resizetizer/r/drawable/thirdscreen.png
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/resizetizer/r/drawable/firstscreen.png
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/resizetizer/r/drawable/secondscreen.png

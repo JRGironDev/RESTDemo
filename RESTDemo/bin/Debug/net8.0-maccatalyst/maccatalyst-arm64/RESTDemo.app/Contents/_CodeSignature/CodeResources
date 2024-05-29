@@ -67,6 +67,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>MonoBundle/CommunityToolkit.Mvvm.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oqsulFVnM7C7ilbH956OoKNj+YTEmgrnV+MponOkV3Q=
+			</data>
+		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -225,14 +232,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6YYXKb8NqKCpCGPNpY6z0L1kKrnz54sV2Ldc+xwYBCc=
+			Yr5BKHcXL1Hy/1ELGNE8gz/Vr3XKwqQgcM4hOcM+KBU=
 			</data>
 		</dict>
 		<key>MonoBundle/RESTDemo.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hsSb8UNhPzhUgwbKK5F/VQaKTIkYDj5AufRpUHXuFbg=
+			pVvvOkIHYNhDLGBqcnQvIIhscpQ/7Vv0Gwq4kQL7R0A=
 			</data>
 		</dict>
 		<key>MonoBundle/System.AppContext.dll</key>

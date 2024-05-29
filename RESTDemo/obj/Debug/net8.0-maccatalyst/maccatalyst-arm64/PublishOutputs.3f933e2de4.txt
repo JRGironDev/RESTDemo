@@ -34,6 +34,7 @@
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../RESTDemo.app/Contents/MonoBundle/zh-Hans/Microsoft.Maui.Controls.resources.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../RESTDemo.app/Contents/MonoBundle/zh-Hant/Microsoft.Maui.Controls.resources.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../RESTDemo.app/Contents/MonoBundle/runtimeconfig.bin
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../RESTDemo.app/Contents/MonoBundle/CommunityToolkit.Mvvm.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../RESTDemo.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../RESTDemo.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../RESTDemo.app/Contents/MonoBundle/Microsoft.Extensions.DependencyInjection.dll
