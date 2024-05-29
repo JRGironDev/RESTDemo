@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:RESTDemo.ViewModels"
+             xmlns:models="clr-namespace:RESTDemo.Models"
+             x:Class="RESTDemo.Views.OnBoarding"
+             x:DataType="viewModels:OnBoardingViewModel"
+             Title="OnBoarding">
+    <CarouselView
+        ItemsSource="{Binding Screens}">
+        <CarouselView.ItemTemplate>
+            <DataTemplate x:DataType="models:Screen">
+                <Grid 
+                    RowDefinitions=".6*, .4*"
+                    RowSpacing="20">
+                    <Image 
+                        Source="{Binding ImageUrl}" 
+                        Aspect="Fill"  />
+                    
+                    <VerticalStackLayout 
+                        Grid.Row="1"
+                        Spacing="10"
+                        Padding="20,0">
+                        <Label 
+                            HorizontalTextAlignment="Center"
+                            Text="{Binding Title}" 
+                            FontSize="20" 
+                            FontAttributes="Bold"/>
+                        <Label
+                            HorizontalTextAlignment="Center"
+                            Text="{Binding Description}" 
+                            FontSize="14" 
+                            TextColor="Gray"/>
+
+                    </VerticalStackLayout>
+                </Grid>
+            </DataTemplate>
+        </CarouselView.ItemTemplate>
+    </CarouselView>
+</ContentPage>

@@ -1037,3 +1037,6 @@
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/stamp/_GeneratePackageManagerJava.stamp
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/stamp/_ResolveLibraryProjectImports.stamp
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/System.Private.CoreLib.dll
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/resizetizer/r/drawable/thirdscreen.png
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/resizetizer/r/drawable/firstscreen.png
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/resizetizer/r/drawable/secondscreen.png

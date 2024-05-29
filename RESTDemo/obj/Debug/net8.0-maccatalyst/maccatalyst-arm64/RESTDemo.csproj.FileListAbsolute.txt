@@ -299,3 +299,6 @@
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/RESTDemo.pdb
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/RESTDemo.genruntimeconfig.cache
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/RESTDemo.dll
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resizetizer/r/Resources/thirdscreen.png
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resizetizer/r/Resources/firstscreen.png
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resizetizer/r/Resources/secondscreen.png

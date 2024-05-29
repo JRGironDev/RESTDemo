@@ -12,6 +12,10 @@
 		<data>
 		whClNP6Vw5sG/WgMXZWoMCzYJ04=
 		</data>
+		<key>Resources/Images/circlebg.png</key>
+		<data>
+		RIO/yimCkcsQMmphwOg1RmEL4Qg=
+		</data>
 		<key>Resources/MauiInfo.plist</key>
 		<data>
 		iEtuUGCV6JM3gxS/pO33swhmpp8=
@@ -32,6 +36,10 @@
 		<data>
 		L9cHAOVSlaW2jMaBgy7GlIBZdZg=
 		</data>
+		<key>Resources/circlebg.png</key>
+		<data>
+		t6S3y8w6lITzNijXY0mqcP9RWsU=
+		</data>
 		<key>Resources/dotnet_bot.png</key>
 		<data>
 		egvqYQJu98U5bepNqiiYGWJc9As=
@@ -43,6 +51,18 @@
 		<key>Resources/dotnet_bot@3x.png</key>
 		<data>
 		Zt+VE+uuJQUze/d9zd3r+NdrtDw=
+		</data>
+		<key>Resources/firstscreen.png</key>
+		<data>
+		t6S3y8w6lITzNijXY0mqcP9RWsU=
+		</data>
+		<key>Resources/secondscreen.png</key>
+		<data>
+		bSxpTcY178ZdUoqaeWkMbo29M5o=
+		</data>
+		<key>Resources/thirdscreen.png</key>
+		<data>
+		4myEu1IljQD9pHpKtE8H0CHg7bY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -205,14 +225,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xw37CPqDHV9gBejpqqlPXYwMXJVAeefugHULQdNQN/s=
+			6YYXKb8NqKCpCGPNpY6z0L1kKrnz54sV2Ldc+xwYBCc=
 			</data>
 		</dict>
 		<key>MonoBundle/RESTDemo.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h5Q7Kmyg25wagXBYXUbeJIu+ACYOZM8HSwB5+Hk1cmE=
+			hsSb8UNhPzhUgwbKK5F/VQaKTIkYDj5AufRpUHXuFbg=
 			</data>
 		</dict>
 		<key>MonoBundle/System.AppContext.dll</key>
@@ -1629,6 +1649,13 @@
 			GccLJ/MG1MZM+yU62T1VCfke2q2emfnAY9RxIbX6aVM=
 			</data>
 		</dict>
+		<key>Resources/Images/circlebg.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gBwzDkuiq9bqg1NAKzSc0ydP9rpuJ9gZe70Ab9IJkes=
+			</data>
+		</dict>
 		<key>Resources/MauiInfo.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -1664,6 +1691,13 @@
 			H4w+DqGNITnXOEy4UxkSBph9BjGxHf/ui2zq6lzv5a0=
 			</data>
 		</dict>
+		<key>Resources/circlebg.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gW9lV1WXcaUAwhGqgTC1sEXot3SN9eoUy2cMpYnfRSg=
+			</data>
+		</dict>
 		<key>Resources/dotnet_bot.png</key>
 		<dict>
 			<key>hash2</key>
@@ -1683,6 +1717,27 @@
 			<key>hash2</key>
 			<data>
 			Up4t4C3+oRoTqJRc+zJSfhbhdg8R3zWbHkE+G9N4B9U=
+			</data>
+		</dict>
+		<key>Resources/firstscreen.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gW9lV1WXcaUAwhGqgTC1sEXot3SN9eoUy2cMpYnfRSg=
+			</data>
+		</dict>
+		<key>Resources/secondscreen.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uXIpWlC0IvnVbEfKVuNU9z9EKe0zdWY1SC2IUtAPIKw=
+			</data>
+		</dict>
+		<key>Resources/thirdscreen.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/4myh+0kqMDXZ5stkWd+d+pg0gGiUP0UgP6V4p4gRFo=
 			</data>
 		</dict>
 	</dict>
