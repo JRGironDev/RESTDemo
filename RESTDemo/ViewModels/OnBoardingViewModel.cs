@@ -1,6 +1,6 @@
 using System.Collections.ObjectModel;
-using System.Windows.Input;
 using CommunityToolkit.Mvvm.ComponentModel;
+using CommunityToolkit.Mvvm.Input;
 using RESTDemo.Models;
 
 namespace RESTDemo.ViewModels;
@@ -10,7 +10,7 @@ partial class OnBoardingViewModel : ObservableObject
     #region Properties
     
     [ObservableProperty]
-    private int _position = 0;
+    private int _position;
     
     public ObservableCollection<Screen> Screens { get; set; } = new ObservableCollection<Screen>();
     #endregion
@@ -40,16 +40,16 @@ partial class OnBoardingViewModel : ObservableObject
         });
     }
 
-    public ICommand NextCommand =>
-        new Command(async () =>
+    [RelayCommand]
+    private async Task Next()
+    {
+        if (Position >= (Screens.Count - 1))
         {
-            if (Position >= (Screens.Count - 1))
-            {
-                await AppShell.Current.GoToAsync($"//{nameof(ApiPage)}");
-            }
-            else
-            {
-                Position += 1;
-            }
-        });
+            await AppShell.Current.GoToAsync($"//{nameof(ApiPage)}");
+        }
+        else
+        {
+            Position += 1;
+        }   
+    }
 }

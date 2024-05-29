@@ -2,7 +2,7 @@ using RESTDemo.ViewModels;
 
 namespace RESTDemo.Views;
 
-public partial class OnBoarding : ContentPage
+public partial class OnBoarding
 {
     public OnBoarding()
     {

@@ -1,3 +1,11 @@
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/RESTDemo.runtimeconfig.json
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/RESTDemo.dll
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/RESTDemo.pdb
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo.apk
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo.aab
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo-Signed.aab
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo-Signed.apk
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo-Signed.apk.idsig
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/build.props
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/adb.props
@@ -110,17 +118,9 @@
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/RESTDemo.AssemblyInfo.cs
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/RESTDemo.csproj.CoreCompileInputs.cache
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/RESTDemo.sourcelink.json
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/XamlC.stamp
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/RESTDemo.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/RESTDemo.pdb
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/RESTDemo.runtimeconfig.json
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/RESTDemo.dll
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/RESTDemo.pdb
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo.apk
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo.aab
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo-Signed.aab
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo-Signed.apk
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/bin/Debug/net8.0-android/com.companyname.restdemo-Signed.apk.idsig
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/XamlC.stamp
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/RESTDemo.genruntimeconfig.cache
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/RESTDemo.runtimeconfig.json.bin
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/bin/com.companyname.restdemo.apk
@@ -278,7 +278,6 @@
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/System.Numerics.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/System.Numerics.Vectors.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/System.ObjectModel.dll
-/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/System.Private.CoreLib.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/System.Private.DataContractSerialization.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/System.Private.Uri.dll
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/System.Private.Xml.dll
@@ -1042,3 +1041,4 @@
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/stamp/_GenerateJavaStubs.stamp
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/stamp/_GeneratePackageManagerJava.stamp
 /Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/stamp/_ResolveLibraryProjectImports.stamp
+/Users/josequinonez/C#/MAUI/RESTDemo/RESTDemo/obj/Debug/net8.0-android/android/assets/System.Private.CoreLib.dll

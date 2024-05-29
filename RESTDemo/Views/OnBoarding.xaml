@@ -2,62 +2,70 @@
 
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ios="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.iOSSpecific;assembly=Microsoft.Maui.Controls"
              xmlns:viewModels="clr-namespace:RESTDemo.ViewModels"
              xmlns:models="clr-namespace:RESTDemo.Models"
              x:Class="RESTDemo.Views.OnBoarding"
              x:DataType="viewModels:OnBoardingViewModel"
+             ios:Page.UseSafeArea="True"
+             ios:Page.PrefersHomeIndicatorAutoHidden="True"
+             Shell.FlyoutBehavior="Disabled"
              Shell.NavBarIsVisible="False"
              Title="OnBoarding">
-    <Grid RowDefinitions=".8*, .2*">
+    <Grid RowDefinitions=".9*, .1*">
         <CarouselView
             IndicatorView="IndicatorView"
             ItemsSource="{Binding Screens}"
             Position="{Binding Position}"
             HorizontalOptions="Fill"
             VerticalOptions="FillAndExpand"
+            HorizontalScrollBarVisibility="Never"
+            VerticalScrollBarVisibility="Never"
             Loop="False">
             <CarouselView.ItemTemplate>
                 <DataTemplate x:DataType="models:Screen">
-                    <Grid 
-                        RowDefinitions=".7*, .3*"
+                    <Grid
+                        RowDefinitions=".6*, .4*"
                         RowSpacing="20">
-                        <Image 
-                            Source="{Binding ImageUrl}" 
-                            Aspect="Fill"  />
-                        
-                        <VerticalStackLayout 
+                        <Image
+                            Source="{Binding ImageUrl}"
+                            VerticalOptions="Start"
+                            Aspect="Fill"/>
+
+                        <VerticalStackLayout
                             Grid.Row="1"
                             Spacing="10"
-                            Padding="20,0">
-                            <Label 
+                            Padding="20,0"
+                            VerticalOptions="Start">
+                            <Label
                                 HorizontalTextAlignment="Center"
-                                Text="{Binding Title}" 
-                                FontSize="20" 
+                                Text="{Binding Title}"
+                                FontSize="20"
                                 FontAttributes="Bold"/>
                             <Label
                                 HorizontalTextAlignment="Center"
-                                Text="{Binding Description}" 
-                                FontSize="14" 
+                                Text="{Binding Description}"
+                                FontSize="14"
                                 TextColor="Gray"/>
                         </VerticalStackLayout>
                     </Grid>
                 </DataTemplate>
             </CarouselView.ItemTemplate>
         </CarouselView>
-        <StackLayout 
+        <StackLayout
             Orientation="Horizontal"
             VerticalOptions="Center"
             Padding="20,0"
             Grid.Row="1">
             <Grid HorizontalOptions="FillAndExpand">
-                <IndicatorView 
+                <IndicatorView
                     x:Name="IndicatorView"
                     VerticalOptions="Center"
                     HorizontalOptions="CenterAndExpand"
                     IndicatorSize="10"
                     IndicatorColor="#E5E7EB"
-                    SelectedIndicatorColor="#3C83F6" />
-                
+                    SelectedIndicatorColor="#3C83F6"/>
+
                 <Frame
                     HeightRequest="40"
                     WidthRequest="40"
@@ -66,7 +74,7 @@
                     HorizontalOptions="End"
                     BackgroundColor="#3C83F6">
                     <Frame.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding NextCommand}" />
+                        <TapGestureRecognizer Command="{Binding NextCommand}"/>
                     </Frame.GestureRecognizers>
                 </Frame>
             </Grid>

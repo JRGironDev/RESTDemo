@@ -6,9 +6,16 @@
     <members>
         <member name="T:RESTDemo.ViewModels.OnBoardingViewModel">
             <inheritdoc/>
+            <inheritdoc/>
         </member>
         <member name="P:RESTDemo.ViewModels.OnBoardingViewModel.Position">
             <inheritdoc cref="F:RESTDemo.ViewModels.OnBoardingViewModel._position"/>
+        </member>
+        <member name="F:RESTDemo.ViewModels.OnBoardingViewModel.nextCommand">
+            <summary>The backing field for <see cref="P:RESTDemo.ViewModels.OnBoardingViewModel.NextCommand"/>.</summary>
+        </member>
+        <member name="P:RESTDemo.ViewModels.OnBoardingViewModel.NextCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:RESTDemo.ViewModels.OnBoardingViewModel.Next"/>.</summary>
         </member>
         <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
             <summary>
